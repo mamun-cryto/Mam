@@ -1,0 +1,21 @@
+/my-telegram-coin-farming-app
+│
+├── /components
+│   └── Footer.js
+│
+├── /pages
+│   ├── api
+│   │   ├── auth.js
+│   │   ├── farming.js
+│   │   └── tasks.js
+│   ├── admin.js
+│   └── index.js
+│
+├── /utils
+│   ├── db.js
+│   └── isAdmin.js
+│
+├── db.json
+├── package.json
+├── vercel.json
+└── .env

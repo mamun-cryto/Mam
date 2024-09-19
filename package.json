@@ -1,0 +1,16 @@
+{
+  "name": "my-telegram-coin-farming-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "fs": "^0.0.1-security"
+  }
+}
